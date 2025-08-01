@@ -28,7 +28,7 @@ Here are some of my projects that showcase my skills in geospatial analysis and 
 #### 🌽 NDVI Analysis
 - [**NDVI Analysis of Phosphorus Stressed Corn**](https://github.com/JakeP2015/NDVI-Analysis-of-Phosphorous-Stressed-Corn.git)
 
-#### 📊 Correlation Analysis
+#### 📊 Spatial Autocorrelation Analysis
 - [**Spatial Analysis of Crime Occurrence and High School Dropout Rates in Pennsylvania**](https://github.com/JakeP2015/Spatial-Analysis-of-Crime-Occurrence-and-High-School-Dropout-Rates-in-Pennsylvania.git)
 
 ---
