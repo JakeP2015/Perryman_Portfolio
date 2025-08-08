@@ -5,7 +5,11 @@
 <br>
 
 ## Bio
-I've been a biologist at Penn State University since 2016, working in a variety of laboratories from virology to disease ecology. I'm currently with the Animal Resource Program. While in this role, I earned a master's degree in Geographic Information Systems and am now looking to shift my career to the world of GIS, specifically in **remote sensing**. My technical proficiencies and projects below highlight my experience.
+I am a dedicated and certified GIS professional with a Master of Science in Geographic Information Systems from Penn State University. My expertise lies at the intersection of geospatial technology and environmental science, driven by a passion for leveraging data to solve real-world problems.
+
+My hands-on experience includes advanced UAS (Unmanned Aerial System) mission planning and multispectral imagery analysis using software like Pix4D Mapper and WebODM. I am highly proficient in managing and maintaining geospatial data and utilizing the full capabilities of ArcGIS Pro and QGIS. My technical skills are further strengthened by a strong foundation in Python scripting, which I use for geospatial analysis automation and data manipulation with libraries such as ArcPy, Pandas, and NumPy.
+
+Holding a Part 107 Remote Pilot Certificate, I am uniquely positioned to manage the full lifecycle of geospatial projects, from raw data collection in the field to advanced analysis and cartographic visualization. My background in Ecology and Environmental Science allows me to bring a critical and detail-oriented perspective to projects involving environmental monitoring, wildlife telemetry, and resource management. I am committed to producing accurate, insightful results and continuously expanding my skills in the dynamic fields of GIS and remote sensing.
 
 ---
 
@@ -13,7 +17,7 @@ I've been a biologist at Penn State University since 2016, working in a variety 
 ### Technical Skills
 
 -   **Geospatial Software:** ArcGIS Pro, ArcGIS Enterprise, Trimble eCognition, Pix4D Mapper, QGIS, WebODM
--   **Programming Languages:** Python, R, Arcpy
+-   **Programming Languages:** Python(arcpy, pandas, numpy, scikit learn, seaborn)
 -   **Data & Analysis:** GeoDa
 
 ---
