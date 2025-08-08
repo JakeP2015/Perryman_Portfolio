@@ -39,7 +39,7 @@ Here are some of my projects that showcase my skills in geospatial analysis and 
 
 ### Professional Documents
 
-- [**Resume**](https://github.com/JakeP2015/Resume.git)
+- [**Resume**](https://github.com/JakeP2015/Perryman_Portfolio/blob/ac036933ffff60d74992f6d5f7c1cd66f52ee688/Perryman%20Resume.pdf)
 - [**CV**](https://github.com/JakeP2015/CV.git)
 
 ---
