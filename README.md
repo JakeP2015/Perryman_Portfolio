@@ -43,9 +43,3 @@ Here are some of my projects that showcase my skills in geospatial analysis and 
 - [**CV**](https://github.com/JakeP2015/CV.git)
 
 ---
-
-### 🤳 Connect with me:
-
-[<img align="left" alt="JakeP2015 | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jacob-perryman-462a87161
